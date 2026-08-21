@@ -1,0 +1,16 @@
+# Generated datasets and intermediate artifacts
+data/
+
+# Python-generated files
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Local environments, caches, and secrets
+.venv/
+venv/
+.cache/
+.env
+
+# Logs
+*.log

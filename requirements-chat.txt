@@ -1,0 +1,4 @@
+huggingface_hub==1.16.1
+numpy==2.4.6
+torch==2.10.0
+transformers==5.12.1
