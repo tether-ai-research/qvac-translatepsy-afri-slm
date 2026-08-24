@@ -2,9 +2,11 @@
 
 This repository contains the code used to recreate the training datasets for the [TranslatePsy-AfriSLM paper](http://arxiv.org/abs/2608.18655) in addition to the models and datasets published on [Hugging Face](https://huggingface.co/collections/qvac/translatepsy-afrislm).
 
+![Punching Above Its Weight](img/punching_above_its_weight.png)
+
 ## Data Processing
 
-The following data mixes were featured in the paper:
+The following data mixes were featured in the paper (alongside our 'synthetic' and 'open-source' mixes):
 
 - OPUS-100 mix  # training
 - General instruct mix  # training
